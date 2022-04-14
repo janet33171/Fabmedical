@@ -1,9 +1,3 @@
-cd ~/MCW-Cloud-native-applications/Hands-on\ lab/lab-files/developer/scripts
-vi bhol.sh
-cd ~/MCW-Cloud-native-applications/Hands-on\ lab/lab-files/developer/scripts
-vi bhol.sh
-In the new bash the file, paste the following commands.
-
 #!/bin/bash
 
 function replace_json_field {
